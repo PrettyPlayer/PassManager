@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url();
+    background: url(NULL);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -7,5 +7,5 @@
 }
 
 .xbox.white {
-    background: url();
+    background: url(NULL);
 }
